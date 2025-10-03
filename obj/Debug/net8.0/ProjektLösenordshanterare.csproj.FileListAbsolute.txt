@@ -1,0 +1,14 @@
+/Users/tildahogberg/Desktop/Uppsala Projekt/ProjektLösenordshanterare 2/bin/Debug/net8.0/ProjektLösenordshanterare
+/Users/tildahogberg/Desktop/Uppsala Projekt/ProjektLösenordshanterare 2/bin/Debug/net8.0/ProjektLösenordshanterare.deps.json
+/Users/tildahogberg/Desktop/Uppsala Projekt/ProjektLösenordshanterare 2/bin/Debug/net8.0/ProjektLösenordshanterare.runtimeconfig.json
+/Users/tildahogberg/Desktop/Uppsala Projekt/ProjektLösenordshanterare 2/bin/Debug/net8.0/ProjektLösenordshanterare.dll
+/Users/tildahogberg/Desktop/Uppsala Projekt/ProjektLösenordshanterare 2/bin/Debug/net8.0/ProjektLösenordshanterare.pdb
+/Users/tildahogberg/Desktop/Uppsala Projekt/ProjektLösenordshanterare 2/obj/Debug/net8.0/ProjektLösenordshanterare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tildahogberg/Desktop/Uppsala Projekt/ProjektLösenordshanterare 2/obj/Debug/net8.0/ProjektLösenordshanterare.AssemblyInfoInputs.cache
+/Users/tildahogberg/Desktop/Uppsala Projekt/ProjektLösenordshanterare 2/obj/Debug/net8.0/ProjektLösenordshanterare.AssemblyInfo.cs
+/Users/tildahogberg/Desktop/Uppsala Projekt/ProjektLösenordshanterare 2/obj/Debug/net8.0/ProjektLösenordshanterare.csproj.CoreCompileInputs.cache
+/Users/tildahogberg/Desktop/Uppsala Projekt/ProjektLösenordshanterare 2/obj/Debug/net8.0/ProjektLösenordshanterare.dll
+/Users/tildahogberg/Desktop/Uppsala Projekt/ProjektLösenordshanterare 2/obj/Debug/net8.0/refint/ProjektLösenordshanterare.dll
+/Users/tildahogberg/Desktop/Uppsala Projekt/ProjektLösenordshanterare 2/obj/Debug/net8.0/ProjektLösenordshanterare.pdb
+/Users/tildahogberg/Desktop/Uppsala Projekt/ProjektLösenordshanterare 2/obj/Debug/net8.0/ProjektLösenordshanterare.genruntimeconfig.cache
+/Users/tildahogberg/Desktop/Uppsala Projekt/ProjektLösenordshanterare 2/obj/Debug/net8.0/ref/ProjektLösenordshanterare.dll
